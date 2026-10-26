@@ -55,6 +55,20 @@ I specialize in backend development, API integrations, and database management. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramjeetChawla&layout=compact&theme=tokyonight&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VikramjeetChawla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VikramjeetChawla&theme=tokyonight&no-frame=true&row=1&column=7)
+
+![Contribution Snake](https://raw.githubusercontent.com/VikramjeetChawla/VikramjeetChawla/output/github-contribution-grid-snake.svg)
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,mongodb,mysql,git,github,vscode&theme=dark)
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=VikramjeetChawla&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/VikramjeetChawla/static_web)
+
+![Profile Views](https://komarev.com/ghpvc/?username=VikramjeetChawla&color=blueviolet&style=for-the-badge)
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true)](https://wakatime.com/)
+
 ---
 
 ## 🤝 Connect With Me
