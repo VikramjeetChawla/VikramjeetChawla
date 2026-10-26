@@ -63,11 +63,9 @@ I specialize in backend development, API integrations, and database management. 
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,mongodb,mysql,git,github,vscode&theme=dark)
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=VikramjeetChawla&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/VikramjeetChawla/static_web)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=VikramjeetChawla&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/VikramjeetChawla/static_web)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VikramjeetChawla&color=blueviolet&style=for-the-badge)
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true)](https://wakatime.com/)
 
 ---
 
