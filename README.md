@@ -59,8 +59,6 @@ I specialize in backend development, API integrations, and database management. 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramjeetChawla&theme=tokyo-night)
 
-![Contribution Snake](https://raw.githubusercontent.com/VikramjeetChawla/VikramjeetChawla/output/github-contribution-grid-snake.svg)
-
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,mongodb,mysql,git,github,vscode&theme=dark)
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=VikramjeetChawla&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/VikramjeetChawla/static_web)
