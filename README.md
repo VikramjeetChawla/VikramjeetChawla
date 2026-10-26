@@ -1,3 +1,71 @@
+
+# Hey, I'm a Software Developer 👋
+
+### Backend Developer | Node.js | Express.js | MongoDB | SQL
+
+I'm a Software Developer with **2 years of professional experience** at **Pinnacle Teleservices**, working with the WhatsApp team.
+
+I specialize in backend development, API integrations, and database management. I enjoy building reliable backend services, solving technical problems, and learning new technologies.
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Developer at Pinnacle Teleservices
+- 💡 2 years of professional development experience
+- ⚙️ Focused on backend development and REST APIs
+- 💬 Experience working with WhatsApp-related systems
+- 🗄️ Experienced with MongoDB and SQL databases
+- 🌱 Always learning and improving my technical skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💻 What I Do
+
+- Develop and maintain backend applications using Node.js and Express.js.
+- Build and integrate RESTful APIs.
+- Handle HTTP requests and external API integrations using Axios.
+- Work with MongoDB and SQL databases.
+- Contribute to WhatsApp-related backend systems and integrations.
+- Debug issues and improve application reliability.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<!-- Add your LinkedIn URL and professional email here. -->
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
 ## Hi there 👋
 
 <!--
